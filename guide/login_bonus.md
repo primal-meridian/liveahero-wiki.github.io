@@ -42,3 +42,5 @@ Unlike the continuous login system, the cumulative login accounts for all number
 |Day 50|{%include item.html id=1%} x 10|
 |Day 75|{%include item.html id=1%} x 5|
 |Day 100|{%include item.html id=1%} x 20|
+|Day 150|{%include item.html id=1%} x 10|
+|Day 200|{%include item.html id=1%} x 20|
